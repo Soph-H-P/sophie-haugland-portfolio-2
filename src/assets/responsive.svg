@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="162" viewBox="0 0 162 162">
+  <g id="Group_14" data-name="Group 14" transform="translate(-138 -946)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="81" cy="81" r="81" transform="translate(138 946)" fill="#7ed1a1"/>
+    <g id="Group_12" data-name="Group 12" transform="translate(160.021 989.917)">
+      <path id="Icon_ionic-ios-laptop" data-name="Icon ionic-ios-laptop" d="M93.081,62.252V11.514A3.684,3.684,0,0,0,89.42,7.875h-74.4a3.67,3.67,0,0,0-3.661,3.639V62.252H1.118c0,2.107,2.107,4,4.022,4.831a28.238,28.238,0,0,0,10.471,2.086H88.824A28.19,28.19,0,0,0,99.1,67.3c2.022-.851,4.214-2.852,4.214-5.044H93.081ZM52.218,9.578a.851.851,0,1,1-.851.851A.854.854,0,0,1,52.218,9.578ZM15.186,13.025H89.25a.427.427,0,0,1,.426.426v44.97a.427.427,0,0,1-.426.426H15.186a.427.427,0,0,1-.426-.426V13.451A.414.414,0,0,1,15.186,13.025ZM61.22,63.955H43.215a2.536,2.536,0,0,1-2.064-1.6H63.285A2.113,2.113,0,0,1,61.22,63.955Z" transform="translate(7.643 -7.875)" fill="#fff"/>
+      <g id="Group_10" data-name="Group 10" transform="translate(0 17.455)">
+        <path id="Icon_material-phone-iphone" data-name="Icon material-phone-iphone" d="M40.518,1.5H15.361C11.022,1.5,7.5,4.367,7.5,7.9V51.411c0,3.532,3.522,6.4,7.861,6.4H40.518c4.34,0,7.861-2.867,7.861-6.4V7.9C48.38,4.367,44.858,1.5,40.518,1.5ZM28.025,55.674a1.819,1.819,0,0,1-1.738-1.8,1.75,1.75,0,0,1,1.738-1.923,1.791,1.791,0,0,1,1.79,1.923A1.865,1.865,0,0,1,28.025,55.674Zm16.02-5.135H11.628V5.978H44.045Z" transform="translate(-7.5 -1.5)" fill="#fff"/>
+        <rect id="Rectangle_10" data-name="Rectangle 10" width="32.979" height="45.347" transform="translate(3.778 4.202)" fill="#7ed1a1"/>
+      </g>
+      <g id="Group_11" data-name="Group 11" transform="translate(93.21 39.753)">
+        <path id="Icon_material-phone-iphone-2" data-name="Icon material-phone-iphone" d="M21.837,1.5H10.914A3.662,3.662,0,0,0,7.5,5.365V31.647a3.662,3.662,0,0,0,3.414,3.865H21.837a3.662,3.662,0,0,0,3.414-3.865V5.365A3.662,3.662,0,0,0,21.837,1.5Z" transform="translate(-7.5 -1.5)" fill="#fff"/>
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="12.13" height="28.09" transform="translate(2.846 2.568)" fill="#7ed1a1"/>
+      </g>
+    </g>
+  </g>
+</svg>
