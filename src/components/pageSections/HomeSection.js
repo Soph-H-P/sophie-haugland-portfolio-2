@@ -2,8 +2,6 @@ import React from 'react';
 import ParticlesBg from 'particles-bg';
 
 import Title from '../atoms/Title';
-import Subtitle from '../atoms/Subtitle';
-import StyledAnchor from '../atoms/StyledAnchor';
 
 const HomeSection = () => {
   return (

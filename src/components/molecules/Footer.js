@@ -5,7 +5,7 @@ import linkedIn from '../../assets/linkedin.svg';
 import gitHub from '../../assets/github.svg';
 import website from '../../assets/website.svg';
 
-import StyledAnchor, { StyledATag } from '../atoms/StyledAnchor';
+import { StyledATag } from '../atoms/StyledAnchor';
 
 const StyledFooter = styled.footer`
   background-color: ${(props) => props.theme.darkFontColor};
